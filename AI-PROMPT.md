@@ -10,7 +10,7 @@ AI was used for:
 - Learning basic C#/.NET project structure
 - Translating an independently designed JavaScript solution into idiomatic C#
 - Improving naming and code readability
-- Suggesting unit test structure
+- Suggesting unit test structure and documentation
 
 All core problem-solving logic were implemented independently.
 
