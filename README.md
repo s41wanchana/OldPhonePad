@@ -18,7 +18,6 @@ The original problem statement does not specify behavior for inputs with more th
 - Empty input
 - Leading or consecutive backspace characters (`*`)
 - Backspace operations on an empty state
-- In case of pressing button more than a number of key on the button, I intentionally make
 
 ## How to Run
 From the project root:
