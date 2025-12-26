@@ -28,3 +28,6 @@ All core problem-solving logic were implemented independently.
 
 ### Prompt 4
 "How do I run the program and test?"
+
+### Prompt 5
+"Help me construct documentation on README.md and create structure on AI-PROMPT.md as well."
